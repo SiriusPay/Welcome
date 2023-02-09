@@ -1,5 +1,5 @@
-### Olá dev, seja bem vindo a área de desenvolvimento de projetos da SiriusPay.
+### Hi, welcome to our project repository 😉
 <hr>
 <p>
-EM CONSTRUÇÃO
+in build...
 </p>
